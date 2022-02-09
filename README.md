@@ -10,6 +10,7 @@
  <br>
  <br>
  <br>
+  </div>
  <p> This is the Kapi, I made this for testing api calls with granular information that will show you exactly what codes mean. 
   I know that api testing can seem abstract, so I wanted to make it more detail than you would probably see in postman.</p>
  <img src='https://content.screencast.com/users/kylebrooks1890329569/folders/Snagit/media/a9b1f4a3-af6f-4cdc-843e-7b1c55de437d/02.09.2022-10.57.png'>
