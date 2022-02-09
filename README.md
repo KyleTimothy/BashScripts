@@ -4,7 +4,7 @@
 <html>
 <body>
  <div>
-  <center>BashScripts and PythonScripts</center>
+ 
  <img src='https://usercontent1.hubstatic.com/12596214_f520.jpg' align="center">
  </div>
  <br>
